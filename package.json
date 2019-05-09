@@ -1,0 +1,15 @@
+{
+  "name": "selenium-test",
+  "version": "0.0.0",
+  "description": "selenium test with nodejs",
+  "main": "index.js",
+  "author": "EmmanuelYupit",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
